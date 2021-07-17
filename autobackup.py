@@ -5,7 +5,7 @@ import json
 from module import vultr
 
 #Api key 목록
-g_api_vultr = "4RM2WS6WEJTO6V52CZPKNFXBXIOKBXZ7CMBA"
+g_api_vultr = ""
 
 #백업할 서버 목록
 g_list_ipv4 = ['216.155.135.234']
